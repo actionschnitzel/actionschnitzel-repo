@@ -1,1 +1,1 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/actionschnitzel-repo.gpg] https://.github.io/actionschnitzel-repo ./
+deb [signed-by=/etc/apt/trusted.gpg.d/actionschnitzel-repo.gpg] https://actionschnitzel.github.io/actionschnitzel-repo ./
