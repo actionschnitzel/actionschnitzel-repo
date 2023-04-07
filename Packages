@@ -5,10 +5,10 @@ Maintainer: Timo Westphal <pigroxtrmo@gmail.com>
 Pre-Depends: bash
 Depends: xterm, python3-pil, python3-pil.imagetk, python3-pip, python3-psutil, python3-distro, python3-bs4, python3-dev, python3-requests, mpg123, lolcat
 Filename: ./pigro_jci-23.02_all.deb
-Size: 2745932
-MD5sum: 1f01e2802c4cb18bbe93cdff5be18ee4
-SHA1: a6504f015336367a1f1a0757bf2023e181ec35f2
-SHA256: da654649b2a2fc68eead9efd158eccb55828a34515cfae6a81e2fc19e2c50e5f
+Size: 2745884
+MD5sum: c5ddc3254301d45399955c064633a88c
+SHA1: e5aec4228d36eb973cf8f73b1971ca077d3a1fe0
+SHA256: 74b48d81b35af11c658836d65d8af21daa3e2790f65daf09635bac444252a8b6
 Section: base
 Priority: optional
 Description: A system control tool for Raspberry Pi
